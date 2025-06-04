@@ -1,6 +1,6 @@
 # ✨ Proyecto 03-danna
 
-![Banner del proyecto](https://via.placeholder.com/1000x300.png?text=03-danna+by+Danna) <!-- Puedes reemplazar este link por tu imagen personalizada -->
+https://www.shutterstock.com/image-photo/digital-technology-data-science-cloud-260nw-2473784457.jpg <!-- Puedes reemplazar este link por tu imagen personalizada -->
 
 ---
 
