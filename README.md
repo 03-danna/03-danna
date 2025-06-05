@@ -15,12 +15,12 @@
       <img height="200" alt="Screenshot_2022-12-22_at_23 08 11-removebg-preview" src="https://i.pinimg.com/236x/e3/14/5c/e3145c6ee8a6d56e5b5487bb9a7cf2b7.jpg" alt="avatar_danna">
   </div>
   <div align=center>
-      <a href="<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&duration=5005&pause=998&color=B33DB6B1&width=435&lines=Hola%2C+soy+Danna!!%F0%9F%A4%AA;Bienvenidos+a+mi+presentaci%C3%B3n...%F0%9F%A5%BA" alt="Typing SVG" /></a>
+      <a href="<a href="<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&duration=5005&pause=998&color=B33DB6B1&width=435&lines=Hola%2C+soy+Danna!!%F0%9F%A4%AA;Bienvenidos+a+mi+presentaci%C3%B3n.%F0%9F%A5%BA" alt="Typing SVG" /></a>
   </div>
 </div>
 
 <details>
-<summary>About me</summary>
+<summary>Sobre mi!!😼</summary>
 
 [//]: # (You must have a lf before the markdown element when inside a block for it to work: https://stackoverflow.com/questions/29368902/how-can-i-wrap-my-markdown-in-an-html-div)
 
@@ -28,21 +28,7 @@
 
 ```js
 /**
- * Represents me.
- * @constructor
- * @param {string} city - Paris, France.
- * @param {string} languagues - English, French.
- * @param {string} jobTitle - Full Stack Developer.
- * @param {string} specialization - Building full-fledged web applications.
- * @param {string} interests - AI, writing & problem-solving.
- * @param {string} hobbies - Climbing, reading, triathlons & playing music.
- * @param {string} education - BSc CompSci, Lancaster University.
- * @param {string} approachable - Yes, to collaborate on exciting projects, don't hesitate to react out.
- * @param {string} stength - Resolute.
- * @param {string} weakness - Shyness.
- * @param {Date} birthday - 14th of December 2000.
- * @throws {Punch} To any and all bugs.
- * @returns {Object} Austinae.
+Soy estudiante de la universidad Universitaria de Colombia, voy terminando cuarto semestre de la carrera de Ingeniería de Software, soy una persona tímida, en mis tiempos libres juego futbol, me gusta tocar el piano y  también la guitarra
  */
 ```
 
