@@ -15,7 +15,7 @@
       <img height="200" alt="Screenshot_2022-12-22_at_23 08 11-removebg-preview" src="https://i.pinimg.com/236x/e3/14/5c/e3145c6ee8a6d56e5b5487bb9a7cf2b7.jpg" alt="avatar_danna">
   </div>
   <div align=center>
-      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&size=35&duration=3500&pause=300&color=A89568&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Austinae;aka+William+Guerrand;Welcome+to+my+profile!;Description+of+myself%3A;Full+Stack+Developer;Inquisitive+by+nature;AI+enthusiast;Chess+lover;Confident+and+ambitious;Long-distance+athlete;Young+at+heart;Guitar+player;Thrill+seeker" alt="Typing SVG" /></a>
+      <a href="<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&duration=5005&pause=998&color=B33DB6B1&width=435&lines=Hola%2C+soy+Danna!!%F0%9F%A4%AA;Bienvenidos+a+mi+presentaci%C3%B3n...%F0%9F%A5%BA" alt="Typing SVG" /></a>
   </div>
 </div>
 
