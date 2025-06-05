@@ -30,7 +30,8 @@
 /**
 Soy estudiante de la universidad Universitaria de Colombia.
 Voy terminando cuarto semestre de la carrera de Ingeniería de Software.
-Soy una persona tímida y en mis tiempos libres juego futbol, me gusta tocar el piano y también la guitarra.
+Soy una persona tímida, pero con muchas ganas de salir adelante
+En mis tiempos libres juego futbol, me gusta tocar el piano y también la guitarra.
  */
 ```
 
